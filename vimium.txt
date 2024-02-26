@@ -1,0 +1,17 @@
+qwertasdfgzxcvb
+
+# Insert your preferred key mappings here.
+map a previousTab
+map s nextTab
+map e scrollPageUp
+map F LinkHints.activateModeToOpenInNewForegroundTab
+unmap f
+map w LinkHints.activateMode
+map W LinkHints.activateModeToOpenInNewForegroundTab
+map h previousTab
+map l nextTab
+map <c-u> scrollPageUp
+map <c-d> scrollPageDown
+map gu goToRoot
+map E scrollToTop
+map D scrollToBottom
