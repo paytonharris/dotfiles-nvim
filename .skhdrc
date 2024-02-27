@@ -1,0 +1,6 @@
+shift + alt - return : open -na /Applications/Alacritty.app
+alt - return : open -a /Applications/Alacritty.app
+alt - b : open -a /Applications/Firefox.app
+alt - f : open ~
+alt - c : open -a /Applications/Visual\ Studio\ Code.app
+alt - m : open /usr/local/bin/mpv
